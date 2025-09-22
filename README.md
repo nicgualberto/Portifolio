@@ -51,7 +51,7 @@ Este repositório tem como objetivo **documentar minha evolução como programad
 ---
 
 ## 🤝 Conecte-se comigo
-- {Instagram}(https://instagram.com/nicollas3_/)
+- [Instagram](https://instagram.com/nicollas3_/)
 - [GitHub](https://github.com/nicgualberto)  
 
 ---
