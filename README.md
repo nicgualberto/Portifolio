@@ -16,7 +16,7 @@ Aqui compartilho projetos que desenvolvi para praticar e demonstrar minhas habil
 
 ### 🔹 2. Análise de Dados
 - **Descrição:** Análise exploratória de um banco de dados, gerando insights, tabelas e métricas importantes.
-- **Tecnologias:** `pandas`, `jupyter notebook`, `matplotlib`
+- **Tecnologias:** `pandas`, `jupyter notebook`, `plotly`
 - **Aprendizado:** Limpeza de dados, criação de tabelas e visualizações gráficas.
 
 ---
@@ -30,14 +30,14 @@ Aqui compartilho projetos que desenvolvi para praticar e demonstrar minhas habil
 
 ### 🔹 4. Aplicação Web com Streamlit + OpenAI
 - **Descrição:** Primeira aplicação web desenvolvida com Streamlit, integrando a API da OpenAI para criar uma interface semelhante a um chatbot.
-- **Tecnologias:** `streamlit`, `openai`, `python-dotenv`
+- **Tecnologias:** `streamlit`, `openai`
 - **Aprendizado:** Deploy de aplicações web interativas e consumo de APIs.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 - Python 3  
-- Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `pyautogui`, `streamlit`, `openai`  e etc...
+- Bibliotecas: `pandas`, `numpy`, `scikit-learn`, `pyautogui`, `streamlit`, `openai`  e etc...
 - Jupyter Notebook  
 
 ---
