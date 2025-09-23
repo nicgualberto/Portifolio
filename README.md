@@ -1,6 +1,3 @@
-# Portifolio
-Portfólio de projetos práticos em Python, demonstrando habilidades em automação, ciência de dados, machine learning e desenvolvimento web com Streamlit.
-
 # 🚀 Portfólio de Projetos em Python
 
 Bem-vindo ao meu portfólio!  
