@@ -48,11 +48,17 @@ Aqui compartilho projetos que desenvolvi para praticar e demonstrar minhas habil
 
 Para executar qualquer projeto do repositório, siga estes passos básicos:
 
-1. Abra o terminal e navegue até a pasta do projeto desejado:  
-```bash
+1. Abra o terminal e navegue até a pasta do projeto desejado:
 cd nome-do-projeto
+
+2. Script Python(.py):
 python nome_do_arquivo.py
+
+3. Jupyter Notebook(.ipynb):
 jupyter notebook nome_do_arquivo.ipynb
+
+4. Aplicação Streamlit:
+streamlit run app.py
 
 ## 📌 Objetivo
 Este repositório tem como objetivo **documentar minha evolução como programador** e servir como portfólio para estudos, projetos pessoais e oportunidades futuras.  
