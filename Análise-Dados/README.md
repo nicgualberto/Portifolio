@@ -19,4 +19,6 @@ Este projeto foi criado para praticar **data analysis** e **visualização inter
 - Bibliotecas necessárias:
 ```bash
 pip install pandas plotly
+jupyter notebook analise_dados.ipynb
+python analise_dados.py
 
