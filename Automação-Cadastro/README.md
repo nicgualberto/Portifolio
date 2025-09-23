@@ -15,4 +15,5 @@ Foi desenvolvido como parte do meu aprendizado em automação e serve como exemp
 - Biblioteca `pyautogui` instalada:
   ```bash
   pip install pyautogui
+  python automacao.py
 
