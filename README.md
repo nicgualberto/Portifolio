@@ -1,4 +1,4 @@
-# 🚀 Portfólio de Projetos em Python
+# 💻 Portfólio de Projetos em Python
 
 Bem-vindo ao meu portfólio!  
 Aqui compartilho projetos que desenvolvi para praticar e demonstrar minhas habilidades em **automação, análise de dados, machine learning e desenvolvimento web** usando Python.  
