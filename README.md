@@ -44,6 +44,15 @@ Aqui compartilho projetos que desenvolvi para praticar e demonstrar minhas habil
 - Jupyter Notebook  
 
 ---
+## 🏃 Como rodar os projetos
+
+Para executar qualquer projeto do repositório, siga estes passos básicos:
+
+1. Abra o terminal e navegue até a pasta do projeto desejado:  
+```bash
+cd nome-do-projeto
+python nome_do_arquivo.py
+jupyter notebook nome_do_arquivo.ipynb
 
 ## 📌 Objetivo
 Este repositório tem como objetivo **documentar minha evolução como programador** e servir como portfólio para estudos, projetos pessoais e oportunidades futuras.  
